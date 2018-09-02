@@ -10,7 +10,7 @@ import (
 	"html/template"
 	"net/http"
 
-	"github.com/gin-gonic/gin/internal/json"
+	"github.com/liyuliang/gin/internal/json"
 )
 
 type JSON struct {
